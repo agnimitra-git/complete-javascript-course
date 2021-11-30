@@ -79,26 +79,26 @@ if (language === "English" && population < 50 && !isIsland) {
 // Switch statement – language
 //#region
 
-// const newlanguage = "random";
+const newlanguage = "random";
 
-// switch (newlanguage) {
-//   case "chinese":
-//     console.log("Most native speakers");
-//     break;
-//   case "spanish":
-//     console.log("2nd in place");
-//     break;
-//   case "english":
-//     console.log("3rd most");
-//     break;
-//   case "hindi":
-//     console.log("4th most");
-//     break;
-//   case "arabic":
-//     console.log("5th most");
-//     break;
-//   default:
-//     console.log("all are good as well");
-// }
+switch (newlanguage) {
+  case "chinese":
+    // console.log("Most native speakers");
+    break;
+  case "spanish":
+    // console.log("2nd in place");
+    break;
+  case "english":
+    // console.log("3rd most");
+    break;
+  case "hindi":
+    // console.log("4th most");
+    break;
+  case "arabic":
+    // console.log("5th most");
+    break;
+  default:
+  // console.log("all are good as well");
+}
 
 //#endregion

@@ -61,8 +61,8 @@ const describePopulation = (country, population) => {
   )}% of the world`;
 };
 
-c(describePopulation("India", 1330));
-c(describePopulation("China", 1441));
-c(describePopulation("Finland", 13));
+// c(describePopulation("India", 1330));
+// c(describePopulation("China", 1441));
+// c(describePopulation("Finland", 13));
 
 //#endregion
